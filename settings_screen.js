@@ -1,0 +1,1 @@
+// Ayarlar ve root menü girişi ekranı

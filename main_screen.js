@@ -1,0 +1,1 @@
+// Ana ekran - kullanıcı giriş ve veri girişi arayüzü
